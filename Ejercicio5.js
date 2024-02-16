@@ -1,4 +1,4 @@
-// Filtrar elementos de un array
+// Ejercicio 5:Filtrar elementos de un array
 // Crea un array con nombres de personas y sus edades.
 // Filtra el array para obtener solo los nombres de las personas mayores de edad (por ejemplo, usando filter).
 // Imprime los nombres de las personas que cumplen con el criterio.
